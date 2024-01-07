@@ -1,1 +1,1 @@
-tp.py is the code for the website creation
+tp.py is the code for the website creation using streamlit
